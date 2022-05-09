@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101534209901",
+    "project_id": "carikos2",
+    "storage_bucket": "carikos2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101534209901:android:7d8b458d8c1d42252cec64",
+        "android_client_info": {
+          "package_name": "com.ukdw.ac.id.kossearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101534209901-7919kcmd81ei1vjrikfn90mpuocrdfkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMnOb5JnQ3NhXDo6mA9QKPlyO2rFKYF8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101534209901-7919kcmd81ei1vjrikfn90mpuocrdfkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
